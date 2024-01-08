@@ -6,7 +6,7 @@
 In Javascript function is a powerful that can do a lot with very little code.
 
 
-###  How to Capitalize Text
+<h3> How to Capitalize Text </h3>  
 
 ```js
 const name = "shamin"
