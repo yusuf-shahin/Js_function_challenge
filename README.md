@@ -17,7 +17,7 @@ In Javascript function is a powerful that can do a lot with very little code.
   
 ### So here we start our exciting JS function challenge... 
 
-### How to Capitalize Text 
+### 1. How to Capitalize Text 
 - The function will capitalize the first word any text .
 
 ```js
@@ -31,7 +31,7 @@ capitalize(name) // "Shamim"
  ## Solution
 
 <details>
-  <summary>Click For Solution</summary>
+  <summary>Click For Solution & explanation</summary>
 
   ```JS
   const capitalize = (str) => (`${str.charAt(0).toUpperCase()}${str.slice(1)}`)
@@ -72,7 +72,7 @@ Calculating a percent is pretty easy and just involves some simple math. It is a
 ## Solution
 
 <details>
-  <summary>Click For Solution</summary>
+  <summary>Click For Solution & explanation</summary>
 
 ```JS
 const calculatePercent = (value, total) => (Math.round((value / total) * 100) + "%" );
@@ -89,5 +89,15 @@ let d = Math.round(2.48); // 2
 
 ```
 </details>
+
+### 3. How to Get a Random Element
+- This function take a array as input and return a random index of this array
+
+ ```js
+const items = ["Sajid", "Osama", "Mohammad", "Umair"];
+
+getRandomItem(items); // "Osama"
+```
+ 
 
 
