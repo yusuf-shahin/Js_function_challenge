@@ -33,26 +33,26 @@ capitalize(name) // "Shamim"
 <details>
   <summary>Click For Solution</summary>
 
-```JS
-const capitalize = (str) => (`${str.charAt(0).toUpperCase()}${str.slice(1)}`)
+  ```JS
+  const capitalize = (str) => (`${str.charAt(0).toUpperCase()}${str.slice(1)}`)
 
-```
-### Explanation
-- Template literals are literals delimited with backtick ( ` ) characters, allowing for multi-line strings, string interpolation with embedded expressions, and special constructs called tagged templates.
-- The charAt() method returns the character at a specified index (position) in a string.
+  ```
+  ### Explanation
+  - Template literals are literals delimited with backtick ( ` ) characters, allowing for multi-line strings, string interpolation with embedded expressions, and special constructs called tagged       templates.
+  - The charAt() method returns the character at a specified index (position) in a string.
   ```js
   let name = "yusuf";
   console.log(text.charAt(0)); // "y"
   console.log(name.charAt(2)); // "s"
   ```
-- The slice() method of Array instances returns a shallow copy of a portion of an array into a new array object selected from start to end ( end not included) where start and end represent the index of items in that array. The original array will not be modified.
-```js
-// in array
-const cities = ["Feni", "Dhaka", "Shirajgong", "Noakhali", "Dinajpur"];
-console.log(cities.slice(2, -1)) ; // ["Shirajgong", "Noakhali"]
-// in string
-const name = "My name is Yusuf Shahin";
-console.log(name.slice(3, -6)) // "name is Yusuf "
+  - The slice() method of Array instances returns a shallow copy of a portion of an array into a new array object selected from start to end ( end not included) where start and end represent the       index of items in that array. The original array will not be modified.
+  ```js
+  // in array
+  const cities = ["Feni", "Dhaka", "Shirajgong", "Noakhali", "Dinajpur"];
+  console.log(cities.slice(2, -1)) ; // ["Shirajgong", "Noakhali"]
+  // in string
+  const name = "My name is Yusuf Shahin";
+  console.log(name.slice(3, -6)) // "name is Yusuf "
 
 </details>
 
