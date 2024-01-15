@@ -82,7 +82,7 @@ const calculatePercent = (value, total) => (Math.round((value / total) * 100) + 
 ```
 ### Explanation
 - calculatePercent accepts a certain amount, divides it by the total amount, then multiplies it by 100.
-- Math. round() is a built-in function in JavaScript that is used to round a number to the nearest whole number. Here's an example of how to use Math.round() :
+- Math.round() is a built-in function in JavaScript that is used to round a number to the nearest whole number. Here's an example of how to use Math.round() :
 ```js
 let a = Math.round(2.51); // 3
 let b = Math.round(2.50); // 3
@@ -113,14 +113,21 @@ onst getRandomItem = (items) =>  items[Math.floor(Math.random() * items.length)]
 ```
 ### Explanation
 - item is an array and we pick an index of item
-- Math. round() is a built-in function in JavaScript that is used to round a number to the nearest whole number. Here's an example of how to use Math.round() :
+- The Math.floor() static method always rounds down and returns the largest integer less than or equal to a given number. Here's an example of how to use Math.floor() :
 ```js
-let a = Math.round(2.51); // 3
-let b = Math.round(2.50); // 3
-let c = Math.round(2.49); // 2
-let d = Math.round(2.48); // 2
-
+let a = Math.round(2.81); // 2
+let b = Math.round(7.33); // 7
 ```
+- Math.random() static method returns a floating-point, pseudo-random number that's greater than or equal to 0 and less than 1, with approximately uniform distribution over that range. Here's an example of how to use Math.random() :
+  ```js
+  console.log(Math.random) // 0.43245663222234244
+  console.log(Math.random) // 0.09876964334327787
+  ```
+  - length is a property of arrays in JavaScript that returns or sets the number of elements in a given array. For example
+    ```js
+    const product = ["table", "chair", "pen", "book"];
+    console.log(product.length) // 4
+    ```
 </details>
 
 
