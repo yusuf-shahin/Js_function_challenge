@@ -100,6 +100,30 @@ const items = ["Sajid", "Osama", "Mohammad", "Umair"];
 
 getRandomItem(items); // "Osama"
 ```
+Getting a random element and array is really nice when you want to make things unique for your user.
+
+## Solution
+
+<details>
+  <summary>Click For Solution & explanation</summary>
+
+```JS
+onst getRandomItem = (items) =>  items[Math.floor(Math.random() * items.length)];
+
+```
+### Explanation
+- item is an array and we pick an index of item
+- Math. round() is a built-in function in JavaScript that is used to round a number to the nearest whole number. Here's an example of how to use Math.round() :
+```js
+let a = Math.round(2.51); // 3
+let b = Math.round(2.50); // 3
+let c = Math.round(2.49); // 2
+let d = Math.round(2.48); // 2
+
+```
+</details>
+
+
  
 
 
