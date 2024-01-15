@@ -1,6 +1,6 @@
 # Javascript function challenge
 ##### Function is the most beautiful part of any programming language . 
-**If we perceive how function basically work in javascript**
+**If we perceive how function basically work in javascript** ,
 We can do so many beautiful thing, write clean code and solve any coding problem by using Function  . 
 
 
@@ -17,7 +17,7 @@ In Javascript function is a powerful that can do a lot with very little code.
   
 ### So here we start our exciting JS function challenge... 
 
-<h3> How to Capitalize Text </h3>  
+### How to Capitalize Text 
 - The function will capitalize the first word any text .
 
 ```js
@@ -44,4 +44,16 @@ const capitalize = (str) => (`${str.charAt(0).toUpperCase()}${str.slice(1)}`)
 
 
 </details>
+
+### 2. How to Calculate Percent
+
+Calculating a percent is pretty easy and just involves some simple math. It is an essential task if you want to display user progress, for example in incrementing a progress bar.
+
+```js
+const questionsCorrect = 6;
+const questionTotal = 11;
+
+calculatePercent(questionsCorrect, questionsTotal); // 55
+
+```
 
