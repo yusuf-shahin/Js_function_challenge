@@ -53,6 +53,7 @@ capitalize(name) // "Shamim"
   // in string
   const name = "My name is Yusuf Shahin";
   console.log(name.slice(3, -6)) // "name is Yusuf "
+  ```
 
 </details>
 
