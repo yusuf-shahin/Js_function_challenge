@@ -96,9 +96,9 @@ let d = Math.round(2.48); // 2
 - This function take a array as input and return a random index of this array
 
  ```js
-const items = ["Sajid", "Osama", "Mohammad", "Umair"];
+const participator = ["Sajid", "Osama", "Mohammad", "Umair", "Nushaib", "Ittihad"];
 
-getRandomItem(items); // "Osama"
+getRandomItem(participator); // "Osama"
 ```
 Getting a random element and array is really nice when you want to make things unique for your user.
 
@@ -108,7 +108,7 @@ Getting a random element and array is really nice when you want to make things u
   <summary>Click For Solution & explanation</summary>
 
 ```JS
-onst getRandomItem = (items) =>  items[Math.floor(Math.random() * items.length)];
+onst getRandomWinner = (winner) =>  winner[Math.floor(Math.random() * items.length)];
 
 ```
 ### Explanation
@@ -123,7 +123,7 @@ let b = Math.round(7.33); // 7
   console.log(Math.random) // 0.43245663222234244
   console.log(Math.random) // 0.09876964334327787
   ```
-  - length is a property of arrays in JavaScript that returns or sets the number of elements in a given array. For example
+- length is a property of arrays in JavaScript that returns or sets the number of elements in a given array. For example
     ```js
     const product = ["table", "chair", "pen", "book"];
     console.log(product.length) // 4
