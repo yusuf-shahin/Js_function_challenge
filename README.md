@@ -87,8 +87,6 @@ let c = Math.round(2.49); // 2
 let d = Math.round(2.48); // 2
 
 ```
-
-
 </details>
 
 
