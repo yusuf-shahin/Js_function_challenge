@@ -1,4 +1,4 @@
-# Javascript function challenge for beginner
+# Javascript function challenge for beginner ❗ ❗ ❗
 ##### Function is the most beautiful part of any programming language . Function work like a machine for programming language. It take some input and return a result. In beginning stage we must understand how function basically work and what can we do by using the power of function .
 **If you are self-taught programmer and perceive how function basically work in javascript** ,
 you can do so many beautiful thing, write clean code and solve any coding problem by using Function  .  
@@ -30,7 +30,7 @@ capitalize(name) // "Shamim"
 
  We can make a capitalize function which accepts some text. Makes the first letter uppercase and return it, then appends the rest of the string.
 
- <h5 style="color:red;"> Solution whit explanation </h5>
+ <h5 style="color:red;"> Solution part </h5>
 
 <details>
   <summary>Click For Solution & explanation</summary>
@@ -71,10 +71,10 @@ calculatePercent(rightAnswer, totalAnswer); // 70%
 ```
 Calculating a percent is pretty easy and just involves some simple math. It is an essential task if you want to display user progress, for example in incrementing a progress bar.
 
-<h5 style="color:red;"> Solution whit explanation </h5>
+<h5 style="color:red;"> Solution part </h5>
 
 <details>
-  <summary>Click For Solution & explanation</summary>
+  <summary> Click For Solution & explanation</summary>
 
 ```JS
 const calculatePercent = (value, total) => (Math.round((value / total) * 100) + "%" );
@@ -102,7 +102,7 @@ getRandomItem(items); // "Osama"
 ```
 Getting a random element and array is really nice when you want to make things unique for your user.
 
-<h5 style="color:red;"> Solution whit explanation </h5>
+<h5 style="color:red;"> Solution part </h5>
 
 <details>
   <summary>Click For Solution & explanation</summary>
