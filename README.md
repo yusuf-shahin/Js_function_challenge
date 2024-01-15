@@ -1,7 +1,7 @@
-# Javascript function challenge
-##### Function is the most beautiful part of any programming language . 
-**If we perceive how function basically work in javascript** ,
-We can do so many beautiful thing, write clean code and solve any coding problem by using Function  . 
+# Javascript function challenge for beginner
+##### Function is the most beautiful part of any programming language . Function work like a machine for programming language. It take some input and return a result. In beginning stage we must understand how function basically work and what can we do by using the power of function .
+**If you perceive how function basically work in javascript** ,
+you can do so many beautiful thing, write clean code and solve any coding problem by using Function  . 
 
 
 # Create Javascript One-Liners by using function :
@@ -12,8 +12,9 @@ In Javascript function is a powerful that can do a lot with very little code.
 - array method
 - string method
 - number method
+- math method
 - pure and higher order function of javascript
-###### But If you are beginner then no problem, In solution part I explain everything
+###### In solution part I will explain everything
   
 ### So here we start our exciting JS function challenge... 
 
