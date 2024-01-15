@@ -30,7 +30,7 @@ capitalize(name) // "Shamim"
 
  We can make a capitalize function which accepts some text. Makes the first letter uppercase and return it, then appends the rest of the string.
 
- ## Solution
+ ###### Solution
 
 <details>
   <summary>Click For Solution & explanation</summary>
@@ -71,7 +71,7 @@ calculatePercent(rightAnswer, totalAnswer); // 70%
 ```
 Calculating a percent is pretty easy and just involves some simple math. It is an essential task if you want to display user progress, for example in incrementing a progress bar.
 
-## Solution
+###### Solution
 
 <details>
   <summary>Click For Solution & explanation</summary>
@@ -102,7 +102,7 @@ getRandomItem(items); // "Osama"
 ```
 Getting a random element and array is really nice when you want to make things unique for your user.
 
-## Solution
+###### Solution
 
 <details>
   <summary>Click For Solution & explanation</summary>
