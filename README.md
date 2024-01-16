@@ -151,9 +151,15 @@ let b = Math.round(7.33); // 7
   ```
   ### Explanation
   - A set is a collection of items that are unique. No element can be repeated. Set in ES6 are ordered: elements of the set can be iterated in the insertion order. The set can store any type of value whether primitive or objects. Here is the example of new set method :
-    ```js
-    
-
+```js
+const letters = new Set(["a","b","c","d","a","a","a","b","f"]);
+console.log(letters) // set(5) {'a','b','c','d','f'}
+```
+- The spread operator ( ... ) helps you expand iterables into individual elements. The spread syntax serves within array literals, function calls, and initialized properties objects to spread the values of iterable objects into separate items.  Here is the example of spredoperator :
+```js
+const students = [{id:1, name : "Yusuf"},{id:2, name : "Rafi"},{id:3, name : "Shakhawat"}]
+console.log(...students) // {id:1, name : "Yusuf"} {id:2, name : "Rafi"} {id:3, name : "Shakhawat"}
+```
 </details>
 
  
