@@ -136,9 +136,25 @@ let b = Math.round(7.33); // 7
   ```js
   const friendList = ["Rahin", "Shafiyer", "Noah", "Akram", "Noah" , "Rahin", "Shabab", "Noah"];
 
-removeDuplicates(friendList); // ["Rahin", "Shafiyar", "Noah", "Akram", "Shabab"]
-```
+  removeDuplicates(friendList); // ["Rahin", "Shafiyar", "Noah", "Akram", "Shabab"]
+  ```
+  Removing duplicate values in an array is an essential task in JavaScript.You might be adding one user to another user's friends list, but you don't want that user to be added or displayed twice.
 
+  ##### Solution part
+  
+<details>
+  <summary>Click For Solution & explanation</summary>
+
+  ```JS
+  const removeDuplicates = (arr) => [...new Set(arr)];
+
+  ```
+  ### Explanation
+  - A set is a collection of items that are unique. No element can be repeated. Set in ES6 are ordered: elements of the set can be iterated in the insertion order. The set can store any type of value whether primitive or objects. Here is the example of new set method :
+    ```js
+    
+
+</details>
 
  
 
