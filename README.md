@@ -3,6 +3,8 @@
 **If you are self-taught programmer and perceive how function basically work in javascript** ,
 you can do so many beautiful thing, write clean code and solve any coding problem by using Function  .  
 ###### For that reason you must take a challenge and solve some problem by using function...
+#### Write your code in [here](https://replit.com/~)
+
 
 
 # Create Javascript One-Liners by using function :
