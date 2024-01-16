@@ -2,8 +2,8 @@
 ##### Function is the most beautiful part of any programming language . Function work like a machine for programming language. It take some input and return a result. In beginning stage we must understand how function basically work and what can we do by using the power of function .
 **If you are self-taught programmer and perceive how function basically work in javascript** ,
 you can do so many beautiful thing, write clean code and solve any coding problem by using Function  .  
-###### For that reason you must take a challenge and solve some problem by using function...
-#### Write your code in [here](https://replit.com/~)
+###### For that reason you must take a challenge and solve some problem by using function. 
+#### For practicing purpose, I will suggest replit . Write your code in [here](https://replit.com/~)
 
 
 
