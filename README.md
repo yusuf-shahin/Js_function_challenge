@@ -93,7 +93,7 @@ let d = Math.round(2.48); // 2
 </details>
 
 ### 3. How to Get a Random Element
-- This function take a array as input and return a random index of this array
+- This function take a array as input and return a random index of this array .
 
  ```js
 const participator = ["Sajid", "Osama", "Mohammad", "Umair", "Nushaib", "Ittihad"];
@@ -129,6 +129,15 @@ let b = Math.round(7.33); // 7
     console.log(product.length) // 4
     ```
 </details>
+
+### 4. How to Remove Duplicate Elements
+- This function take a array as input then remove all duplicate element then return it .
+
+  ```js
+  const friendList = ["Rahin", "Shafiyer", "Noah", "Akram", "Noah" , "Rahin", "Shabab", "Noah"];
+
+removeDuplicates(friendList); // ["Rahin", "Shafiyar", "Noah", "Akram", "Shabab"]
+```
 
 
  
