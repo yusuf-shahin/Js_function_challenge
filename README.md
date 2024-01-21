@@ -3,13 +3,10 @@
 **If you are self-taught programmer and perceive how function basically work in javascript** ,
 you can do so many beautiful thing, write clean code and solve any coding problem by using Function  .  
 ###### For that reason you must take a challenge and solve some problem by using function. 
-#### For practicing purpose, I will suggest replit . Write your code in [here](https://replit.com/~)
+#### For practicing purpose, I will suggest replit . Write your code in ✍️[here](https://replit.com/~) 
 
 
-
-
-  
-## So here we start our exciting JS function challenge 🚴‍♂️
+### So here we start our exciting JS function challenge 🚴‍♂️
 
 # Logic building mindset 🏗️
 - First we take some very basic and beginner level logic building challeng by using javascript function 🚶
