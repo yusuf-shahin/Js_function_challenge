@@ -7,25 +7,15 @@ you can do so many beautiful thing, write clean code and solve any coding proble
 
 
 
-# Create Javascript One-Liners by using function :
-In Javascript function is a powerful that can do a lot with very little code.
 
-#### Before take this challenge we must contain clear about 
-- ES6
-- array method
-- string method
-- number method
-- math method
-- pure and higher order function of javascript
-###### In solution part I will explain everything
   
-## So here we start our exciting JS function challenge...
+## So here we start our exciting JS function challenge 🚴‍♂️
 
 # Logic building mindset 🏗️
-- First we take some beginner level logic building challeng by using javascript function.
+- First we take some very basic and beginner level logic building challeng by using javascript function 🚶
   
 
-### 5. Find the largest number in an array 
+### 1. Find the largest number in an array 
 - This function take a array as input then return the largest number from this array .
 
 ```js
@@ -52,6 +42,15 @@ In Javascript function is a powerful that can do a lot with very little code.
 
 # One Line punch 👊
 - JavaScript is a powerful language that can do a lot with very little code. In some cases, the amount of code you need to write doesn't exceed more than a single line, which is why they are known as one-liners.
+
+#### Before take this challenge we must contain clear about 
+- ES6
+- array method
+- string method
+- number method
+- math method
+- pure and higher order function of javascript
+###### In solution part I will explain everything :basecamp:
 
 ### 1. How to Capitalize Text 
 - The function will capitalize the first word any text .
