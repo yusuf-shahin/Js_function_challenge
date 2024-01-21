@@ -19,7 +19,39 @@ In Javascript function is a powerful that can do a lot with very little code.
 - pure and higher order function of javascript
 ###### In solution part I will explain everything
   
-## So here we start our exciting JS function challenge... 
+## So here we start our exciting JS function challenge...
+
+# Logic building mindset 🏗️
+- First we take some beginner level logic building challeng by using javascript function.
+  
+
+### 5. Find the largest number in an array 
+- This function take a array as input then return the largest number from this array .
+
+```js
+  const numbers = [90, 44, 54, 21, 44, 87, 92, 76, 55, 76, 54, 12];
+
+  console.log(largestNumberFunc(numbers)); // 92
+```
+##### Solution part
+  
+<details>
+  <summary>Click For Solution & explanation</summary>
+
+  ```JS
+  const removeDuplicates = (arr) => [...new Set(arr)];
+
+  ```
+  ### Explanation
+ 
+```js
+
+```
+</details>
+
+
+# One Line punch 👊
+- JavaScript is a powerful language that can do a lot with very little code. In some cases, the amount of code you need to write doesn't exceed more than a single line, which is why they are known as one-liners.
 
 ### 1. How to Capitalize Text 
 - The function will capitalize the first word any text .
@@ -165,8 +197,5 @@ console.log(...students) // {id:1, name : "Yusuf"} {id:2, name : "Rafi"} {id:3, 
 </details>
 
 
-
-
- 
 
 
